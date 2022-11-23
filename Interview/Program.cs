@@ -23,6 +23,7 @@ namespace Interview
 
             var x = lines.Select(parser.Parse).ToArray();
 
+            Console.ForegroundColor = ConsoleColor.Gray;
         }
     }
 }
