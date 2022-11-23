@@ -9,7 +9,9 @@ namespace Interview
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.DarkRed;
-            Console.WriteLine("This will test you on the some of the interview questions that you may encounter.");
+            Console.WriteLine("Fellow TrueCoder classmates, I hope you find this little console app to be a useful \ntool when studying some of these interview questions.");
+            Console.WriteLine("I wanted the questions to be presented without the answer right under them.");
+            Console.WriteLine("Some of the answers are long... sorry for the formating!  If I have time I may update \nthis or maybe an aspiring classmate will for me...????");
             Console.WriteLine("There will be a question followed by a Console.ReadLine(), press enter to reveal the answer.");
             Console.WriteLine("Good Luck!\n");
             Console.WriteLine("*--------------------------------------------------------------------------------------------------------*");

@@ -17,9 +17,9 @@ namespace Interview
             var qANDa = new QandA();
             qANDa.Question = question.ToString();
             qANDa.Answer = answer.ToString();
-            Console.WriteLine(qANDa.Question);
+            Console.WriteLine($"Q: {qANDa.Question}");
             Console.ReadLine();
-            Console.WriteLine(qANDa.Answer);
+            Console.WriteLine($"A: {qANDa.Answer}");
             Console.ReadLine();
             Console.WriteLine("*--------------------------------------------------------------------------------------------------------*");
 

@@ -13,3 +13,18 @@ C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Interview\Int
 C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Interview\Interview\obj\Debug\net6.0\Interview.pdb
 C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Interview\Interview\obj\Debug\net6.0\Interview.genruntimeconfig.cache
 C:\Users\Ruben\Desktop\Personal Projects\LaptopReposForExperiments\Interview\Interview\obj\Debug\net6.0\ref\Interview.dll
+C:\Users\coder\OneDrive\Desktop\REPOS\Rough-and-Ready-Interview\Interview\bin\Debug\net6.0\Interview.exe
+C:\Users\coder\OneDrive\Desktop\REPOS\Rough-and-Ready-Interview\Interview\bin\Debug\net6.0\Interview.deps.json
+C:\Users\coder\OneDrive\Desktop\REPOS\Rough-and-Ready-Interview\Interview\bin\Debug\net6.0\Interview.runtimeconfig.json
+C:\Users\coder\OneDrive\Desktop\REPOS\Rough-and-Ready-Interview\Interview\bin\Debug\net6.0\Interview.dll
+C:\Users\coder\OneDrive\Desktop\REPOS\Rough-and-Ready-Interview\Interview\bin\Debug\net6.0\Interview.pdb
+C:\Users\coder\OneDrive\Desktop\REPOS\Rough-and-Ready-Interview\Interview\obj\Debug\net6.0\Interview.csproj.AssemblyReference.cache
+C:\Users\coder\OneDrive\Desktop\REPOS\Rough-and-Ready-Interview\Interview\obj\Debug\net6.0\Interview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coder\OneDrive\Desktop\REPOS\Rough-and-Ready-Interview\Interview\obj\Debug\net6.0\Interview.AssemblyInfoInputs.cache
+C:\Users\coder\OneDrive\Desktop\REPOS\Rough-and-Ready-Interview\Interview\obj\Debug\net6.0\Interview.AssemblyInfo.cs
+C:\Users\coder\OneDrive\Desktop\REPOS\Rough-and-Ready-Interview\Interview\obj\Debug\net6.0\Interview.csproj.CoreCompileInputs.cache
+C:\Users\coder\OneDrive\Desktop\REPOS\Rough-and-Ready-Interview\Interview\obj\Debug\net6.0\Interview.dll
+C:\Users\coder\OneDrive\Desktop\REPOS\Rough-and-Ready-Interview\Interview\obj\Debug\net6.0\refint\Interview.dll
+C:\Users\coder\OneDrive\Desktop\REPOS\Rough-and-Ready-Interview\Interview\obj\Debug\net6.0\Interview.pdb
+C:\Users\coder\OneDrive\Desktop\REPOS\Rough-and-Ready-Interview\Interview\obj\Debug\net6.0\Interview.genruntimeconfig.cache
+C:\Users\coder\OneDrive\Desktop\REPOS\Rough-and-Ready-Interview\Interview\obj\Debug\net6.0\ref\Interview.dll
