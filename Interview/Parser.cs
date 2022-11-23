@@ -21,6 +21,7 @@ namespace Interview
             Console.ReadLine();
             Console.WriteLine($"A: {qANDa.Answer}");
             Console.ReadLine();
+            Console.Clear();
             Console.WriteLine("*--------------------------------------------------------------------------------------------------------*");
 
             return qANDa;
